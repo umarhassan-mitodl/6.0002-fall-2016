@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2016",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "495693ed-f565-882f-89bc-b42bd27e3fef",
+  "instructors": {
+    "content": [
+      "c010ab86-ace6-3792-07c9-ce6c8e62e38f",
+      "0fb19bce-9520-8355-d51a-1d5087eb5391",
+      "5c0454cf-72a0-46d9-66ca-fa2edb801005"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d9b969b1-e9e2-029d-7e9b-9e2c9324dde4",
+    "website": "6-0002-introduction-to-computational-thinking-and-data-science-fall-2016"
+  },
+  "course_title": "Introduction to Computational Thinking and Data Science",
+  "hide_download": true,
+  "course_description": "6.0002 is the continuation of _[6.0001 Introduction to Computer Science and Programming in Python](/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)_ and is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.0002",
+  "course_image_thumbnail": {
+    "content": "cc10166a-431e-4c4c-63bc-37705d8a62a1",
+    "website": "6-0002-introduction-to-computational-thinking-and-data-science-fall-2016"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets",
+    "Lecture Notes",
+    "Programming Assignments"
+  ],
+  "site_uid": "c12b4e4a-262c-49f4-b105-572194394d2e",
+  "site_short_id": "6.0002-fall-2016",
+  "site_url_path": "courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016",
+  "title": "Course Metadata"
+}
